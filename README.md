@@ -1,1 +1,1 @@
-# wpl-project
+# wpl-project-instructions
